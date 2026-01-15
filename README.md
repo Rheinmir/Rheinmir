@@ -1,7 +1,7 @@
 > <small><i>This GitHub contains personal experiments, prototypes, and homelab projects.</i></small>  
 > <small><i>All repositories are for learning, testing, and exploration only.</i></small>
 
-👋 Hi, I'm Gia (Rheinmir)
+👋 Hi, I'm Rheinmir
 
 **Tech Enthusiast · Low-code Dev · Experimental Systems · Homelab · DevOps · Music Lover**
 
