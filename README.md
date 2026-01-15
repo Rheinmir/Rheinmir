@@ -1,7 +1,7 @@
 > <small><i>This GitHub contains personal experiments, prototypes, and homelab projects.</i></small>  
 > <small><i>All repositories are for learning, testing, and exploration only.</i></small>
 
-👋 Hi, I'm Rheinmir — music, nature, tech lover and a fan of smooth, elegant solutions.
+👋 Hi, I'm Rheinmir — a music, nature, and tech lover, and a fan of smooth, convenient, elegant solutions.
 
 ### What I work & play with
 - Power Apps / Power Automate / SharePoint  
