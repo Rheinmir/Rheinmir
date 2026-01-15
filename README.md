@@ -1,5 +1,5 @@
-*Personal experiments, prototypes, and homelab projects.*  
-*For learning, testing, and exploration only.*
+*This GitHub contains personal experiments, prototypes, and homelab projects.*  
+*All repositories are for learning, testing, and exploration only.*
 
 Hi, I'm Gia (Rheinmir)
 
