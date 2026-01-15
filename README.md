@@ -1,42 +1,19 @@
-# Hi, I'm Gia (Rheinmir)
+
+*This GitHub contains personal experiments, prototypes, and homelab projects.
+All repositories are for learning, testing, and exploration purposes only.*
+
+Hi, I'm Gia (Rheinmir)
 
 **Tech Enthusiast · Low-code Dev · Experimental Systems · Homelab · DevOps**
 
-Personal lab for experiments, prototypes, and system exploration.  
-Not related to any employer or production systems.
+### What I focus on & play with
+- Power Apps / Power Automate / SharePoint
+- Automation, workflows & internal tools
+- Homelab & self-hosted experiments
+- DevOps-lite pipelines (labs & AI-assisted scenarios)
 
----
+### Tech Playground
+Power Platform · Node.js · Python · Docker · Jenkins · SQLite · React · Tailwind · AI
 
-## 🔬 Focus on
-- Low-code: Power Apps / Power Automate / SharePoint
-- Automation & workflow building
-- Data & internal tools
-- Homelab infrastructure & self-hosted experiments
-- DevOps-lite pipelines (personal labs & AI-assisted scenarios)
-
----
-
-## 🧪 What You’ll Find Here
-- Small tools & utilities
-- Proof-of-concept systems
-- Infrastructure experiments
-- CI/CD & automation playgrounds
-- UI/UX and productivity prototypes
-
----
-
-## 🧰 Tech Playground
-- Power Platform · Node.js · Python
-- Docker · Jenkins · GitHub Actions
-- SQLite · SQL · APIs
-- React · Vite · TailwindCSS
-- RAG · Context & Skill Engineering(AI)
-
----
-
-## 🌐 Contact
-- Email: dev@giatbh.io.vn
-
----
-
-> All projects here are experimental and for personal learning purposes.
+### Contact
+📧 dev@giatbh.io.vn
