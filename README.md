@@ -5,7 +5,7 @@ Hi, I'm Gia (Rheinmir)
 
 **Tech Enthusiast · Low-code Dev · Experimental Systems · Homelab · DevOps · Music Lover**
 
-### What I focus on & play with
+### What I work & play with
 - Power Apps / Power Automate / SharePoint  
 - Automation, workflows & internal tools
 - API, Data handling, integration
