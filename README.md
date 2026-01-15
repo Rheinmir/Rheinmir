@@ -21,8 +21,8 @@ Power Platform · Azure · Docker · Jenkins · K8S · AI · React · Python · 
 📧 dev@giatbh.io.vn
 
 
-### 🖥 Gear
 
+### 🖥 Gear
 - **Daily driver:** M4 mini 256 + 1TB docked  
 - **Homelab box:** ITX i9-12900HX ES + RTX 3060 12G · NVMe 512 + 1TB · 700W  
 - **Portable:** Air 11.6  
