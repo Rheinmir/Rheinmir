@@ -26,12 +26,12 @@ Power Platform · Azure · Docker · Jenkins · K8S · AI · React · Python · 
 - **Portable**: Air 11.6"  
 - **OS**: macOS · Windows · Linux  
 - **Audio**: 
-  [HD650](https://en-us.sennheiser.com/hd-650) · 
-  [Momentum 3](https://www.sennheiser-hearing.com/en-US/p/momentum-3-wireless/) · 
-  [Nova](https://www.dunu-topsound.com/falconpro) · 
-  [K11R2R](https://fosiaudio.com/products/fosi-audio-k11) · 
-  [ZCAN](https://ifi-audio.com/products/zen-can/) · 
-  [Sanskrit 10th III](https://www.audio-gd.com/Sanskrit10th/Sanskrit10thEN.htm) · 
-  [RU6](https://en.cayin.cn/products_info?itemid=80) · 
+  [HD650](https://www.head-fi.org/showcase/sennheiser-hd-650-headphones.9315/) · 
+  [Momentum 3](https://www.head-fi.org/showcase/sennheiser-momentum-3.23921/) · 
+  [Nova](https://truthear.com/products/nova) · 
+  [K11R2R](https://www.fiio.com/k11r2r) · 
+  [Zen CAN air](https://ifi-audio.com/products/zen-can/) · 
+  [Sanskrit 10th III](https://www.head-fi.org/showcase/smsl-sanskrit-10th-sk10.23378/) · 
+  [RU6](https://en.cayin.cn/features/7/124/488.html) · 
   Tube amp
 
