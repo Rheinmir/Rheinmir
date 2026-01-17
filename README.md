@@ -30,7 +30,7 @@ Power Platform · Azure · Docker · Jenkins · K8S · AI · React · Python · 
   [Momentum 3](https://www.head-fi.org/showcase/sennheiser-momentum-3.23921/) · 
   [Nova](https://truthear.com/products/nova) · 
   [K11R2R](https://www.fiio.com/k11r2r) · 
-  [Zen CAN air](https://ifi-audio.com/products/zen-can/) · 
+  [Zen CAN Air](https://ifi-audio.com/products/zen-can/) · 
   [Sanskrit 10th III](https://www.head-fi.org/showcase/smsl-sanskrit-10th-sk10.23378/) · 
   [RU6](https://en.cayin.cn/features/7/124/488.html) · 
   Tube amp
