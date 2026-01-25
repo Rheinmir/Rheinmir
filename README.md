@@ -1,4 +1,4 @@
-> <small><i>This GitHub contains personal experiments, prototypes, and homelab projects.</i></small>  
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/9efa61ee-7bd3-4e9e-bc29-f37f43d831f2" />> <small><i>This GitHub contains personal experiments, prototypes, and homelab projects.</i></small>  
 > <small><i>All repositories are for learning, testing, and exploration only.</i></small>
 
 👋 Hi, I'm Rheinmir — a music, nature, and tech lover, also a fan of smooth, convenient, elegant solutions.
@@ -22,7 +22,7 @@ Power Platform · Azure · Docker · Jenkins · K8S · AI · React · Python · 
 
 ### 🖥 Gear
 - **Daily driver**: M4 mini 256GB + 1TB docked  
-- **Homelab**: i7-13700HX ES · RTX 3060 12GB · 32GB · NVMe 512GB + 1TB · 1250W (80+G, 104A@12V)
+- **Homelab**: i7-13700HX ES · RTX 3060 12GB · 32GB · NVMe 512GB + 1TB · 1250W (EPS12V, 80+G, 100A@12V)
 - **Portable**: Air 11.6"  
 - **OS**: macOS · Windows · Linux  
 - **Audio**: 
