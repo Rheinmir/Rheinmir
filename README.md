@@ -1,4 +1,4 @@
-<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/9efa61ee-7bd3-4e9e-bc29-f37f43d831f2" />> <small><i>This GitHub contains personal experiments, prototypes, and homelab projects.</i></small>  
+<small><i>This GitHub contains personal experiments, prototypes, and homelab projects.</i></small>  
 > <small><i>All repositories are for learning, testing, and exploration only.</i></small>
 
 👋 Hi, I'm Rheinmir — a music, nature, and tech lover, also a fan of smooth, convenient, elegant solutions.
