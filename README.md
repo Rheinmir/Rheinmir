@@ -22,7 +22,7 @@ Power Platform · Azure · Docker · Jenkins · K8S · AI · React · Python · 
 
 ### 🖥 Gear
 - **Daily driver**: M4 mini 256GB + 1TB docked  
-- **Homelab**: i7-13700HX ES · RTX 3060 12GB · 32GB · NVMe 512GB + 1TB · 1250W (EPS12V, 80+G, 100A@12V)
+- **Homelab**: i7-13700HX ES · RTX 3060 12GB · 32GB · NVMe 512GB + 1TB · SATA 1TB · 1250W (EPS12V, 80+G, 100A@12V)
 - **Portable**: Air 11.6"  
 - **OS**: macOS · Windows · Linux  
 - **Audio**: 
