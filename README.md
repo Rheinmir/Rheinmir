@@ -20,12 +20,15 @@ Power Platform · Azure · Docker · Jenkins · K8S · AI · React · Python · 
 
 
 
-### 🖥 Gear
-- **Daily driver**: M4 mini 256GB + 500GB Docked + 1TB Portable
-- **Homelab**: i7-13700HX ES · RTX 3060 12GB · 32GB · NVMe 512GB + 1TB · SATA 512GB + 1TB · 1250W (EPS12V, 80+G, 100A@12V)
-- **Portable**: Air 11.6"  
-- **OS**: macOS · Windows · Linux  
-- **Audio**: 
+### Gear
+• Daily driver: M4 mini | 256GB + 500GB Docked | 1TB Portable
+• Homelab: i7-13700HX ES | ASUS Dual RTX 3060 12GB OC | HP Omen AIO Liquid Cooler | 32GB(16x2,3200) | WD SN530 (512GB) + WD SN560 (1TB) | Seagate 512GB (7200rpm) + Seagate 1TB (5400rpm)| GW-EPS1250DA(90+) 1250W 80+ Gold
+• Portable: MacBook Air 11.6"
+
+### OS:
+macOS | Windows | Linux
+
+### Audio: 
   [HD650](https://www.head-fi.org/showcase/sennheiser-hd-650-headphones.9315/) · 
   [Momentum 3](https://www.head-fi.org/showcase/sennheiser-momentum-3.23921/) · 
   [Nova](https://truthear.com/products/nova) · 
