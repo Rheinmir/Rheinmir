@@ -27,7 +27,7 @@ Power Platform · Azure · Docker · Jenkins · K8S · AI · React · Python · 
 
 
 ### OS:
-macOS | Windows | Linux
+macOS · Windows · Linux
 
 ### Audio: 
   [HD650](https://www.head-fi.org/showcase/sennheiser-hd-650-headphones.9315/) · 
