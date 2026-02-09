@@ -22,7 +22,7 @@ Power Platform · Azure · Docker · Jenkins · K8S · AI · React · Python · 
 
 ### Gear
 - ***Daily driver***: M4 mini · 256GB + Samsung SSD 980 500G (docked) · Samsung Portable SSD T7 1TB (exFAT)
-- ***Homelab***: i7-13700HX ES · ASUS Dual RTX 3060 12GB OC · HP Omen AIO Liquid Cooler · 32GB(16x2 - 3200) · WD SN530 (512GB) + WD SN560 (1TB) · WD/HGST 512GB (7200rpm) + Seagate 512GB (7200rpm) + Seagate 1TB (5400rpm) · GW-EPS1250DA 1250W Gold
+- ***Homelab***: i7-13700HX ES · ASUS Dual RTX 3060 12GB OC · HP Omen AIO Liquid Cooler · 32GB(16x2 - 3200) · WD SN530 (512GB) + WD SN560 (1TB) · WD/HGST 512GB (7200rpm) + Seagate 512GB (7200rpm) + Seagate 1TB (5400rpm) · GW-EPS1250DA 1250W 80+Gold
 - ***Portable***: MacBook Air 11.6"
 
 
